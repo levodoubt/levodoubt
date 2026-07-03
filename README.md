@@ -47,6 +47,4 @@
 
 you've already wasted about 10 seconds
 
-<img src="https://komarev.com/ghpvc/?username=levodoubt&color=ff99cc&style=flat-square&label=Visitors" alt="visitors" />
-
 </div>
