@@ -24,7 +24,7 @@
 
 <div align="center">
 
-![images](.\assets\images\0001.png)
+![images](./assets/images/0001.png)
 
 </div>
 
