@@ -24,7 +24,7 @@
 
 <div align="center">
 
-![levodoubt's GitHub stats](D:/desktop/1/levodoubt-profile/images/69bc8509ed0da86c783b3126200ad52169b4b78e.png)
+![images](.\assets\images\0001.png)
 
 </div>
 
