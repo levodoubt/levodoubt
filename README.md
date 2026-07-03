@@ -1,4 +1,4 @@
-# 🌌 levodoubt 🌌
+# 🌌 Levodoubt 🌌
 
 > *「Everything will be lost, except trash」*
 
