@@ -24,7 +24,7 @@
 
 <div align="center">
 
-![images](./assets/images/0001.png)
+<img src="./assets/images/0001.png" width="50%" alt="images">
 
 </div>
 
