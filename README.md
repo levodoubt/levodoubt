@@ -22,14 +22,6 @@
 
 ---
 
-<div align="center">
-
-<img src="./assets/images/0001.png" width="50%" alt="images">
-
-</div>
-
----
-
 ## 🎵 Now Playing
 
 <div align="center">
