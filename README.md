@@ -14,7 +14,7 @@
 
 | Language | `Python` `C` `C++` `JAVA`   |
 |:--------:| --------------------------- |
-| **Tool** | `Git` `Trae` `VS Code`      |
+| **Tool** | `Git` `VS Code`      |
 | **And**  | `Blender` `ComfyUI` `Krita` |
 | **And**  | `So` `On`                   |
 
