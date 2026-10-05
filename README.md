@@ -10,15 +10,11 @@
 
 ## ✨ Tech Stack
 
-<div align="center">
-
 | Language | `Python` `C` `C++` `JAVA`   |
 |:--------:| --------------------------- |
 | **Tool** | `Git` `VS Code`      |
 | **And**  | `Blender` `ComfyUI` `Krita` |
 | **And**  | `So` `On`                   |
-
-</div>
 
 </details>
 
