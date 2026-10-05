@@ -1,8 +1,8 @@
 # 🌌 Levodoubt 🌌
 
-> *「Everything will be lost, except trash」*
-
 <div align="center">
+
+> *「Everything will be lost, except trash」*
 
 </div>
 
