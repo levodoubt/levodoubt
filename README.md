@@ -10,13 +10,15 @@
 
 ## ✨ Tech Stack
 
-<!-- ここにあなたの技術スタックを自由に記入してください -->
+<div align="center">
 
 | Language | `Python` `C` `C++` `JAVA`   |
 |:--------:| --------------------------- |
 | **Tool** | `Git` `VS Code`      |
 | **And**  | `Blender` `ComfyUI` `Krita` |
 | **And**  | `So` `On`                   |
+
+</div>
 
 </details>
 
